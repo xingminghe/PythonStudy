@@ -1,4 +1,4 @@
-import p01
-stu = p01.Student("junjun", 30)
+import p01 as pp
+stu = pp.Student("junjun", 30)
 stu.say()
-p01.sayHello()
+pp.sayHello()
