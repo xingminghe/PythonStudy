@@ -1,11 +1,8 @@
-import timeit
-
-
-def doIt():
-    num = 3
-    for i in range(num):
-        print("Repeat for {0}".format(i))
-
-
-t1 = timeit.timeit(stmt=doIt, number=10)
-print(t1)
+import logging
+LOG_FORMAT = "%(asctime)s - %(levelname)s - %(message)s"
+logging.basicConfig(filename="my.log",level=logging.WARNING,format=LOG_FORMAT)
+logging.debug("This is a debug log")
+logging.info("This is a info log")
+logging.warning("This is a warning log")
+logging.error("This is a error log")
+logging.critical("This is a critical log")
