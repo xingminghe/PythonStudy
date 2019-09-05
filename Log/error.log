@@ -1,0 +1,6 @@
+2019-09-05 16:37:46,437 - ERROR - mylogger - logger.py[:21] - error message
+2019-09-05 16:37:46,437 - CRITICAL - mylogger - logger.py[:22] - critical message
+2019-09-05 16:38:18,048 - ERROR - root - logger.py[:21] - error message
+2019-09-05 16:38:18,048 - CRITICAL - root - logger.py[:22] - critical message
+2019-09-05 16:39:20,590 - ERROR - root - logger.py[:21] - error message
+2019-09-05 16:39:20,590 - CRITICAL - root - logger.py[:22] - critical message
