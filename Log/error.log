@@ -4,3 +4,7 @@
 2019-09-05 16:38:18,048 - CRITICAL - root - logger.py[:22] - critical message
 2019-09-05 16:39:20,590 - ERROR - root - logger.py[:21] - error message
 2019-09-05 16:39:20,590 - CRITICAL - root - logger.py[:22] - critical message
+2019-09-06 08:08:08,633 - ERROR - root - logger.py[:21] - error message
+2019-09-06 08:08:08,633 - CRITICAL - root - logger.py[:22] - critical message
+2019-09-06 09:15:28,188 - ERROR - root - logger.py[:21] - error message
+2019-09-06 09:15:28,188 - CRITICAL - root - logger.py[:22] - critical message
