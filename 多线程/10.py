@@ -3,7 +3,7 @@ import threading
 from time import sleep, ctime
 
 
-loop = [4,2]
+# loop = [4,2]
 
 class ThreadFunc:
 

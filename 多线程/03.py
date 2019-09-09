@@ -34,7 +34,7 @@ def main():
     # 启动多线程函数为start_new_thead
     # 参数两个，一个是需要运行的函数名，第二是函数的参数作为元祖使用，为空则使用空元祖
     # 注意：如果函数只有一个参数，需要参数后由一个逗号
-    thread.start_new_thread(loop1,("王老大", ))
+    thread.start_new_thread(loop1,("王大鹏",))
 
     thread.start_new_thread(loop2,("王大鹏", "王晓鹏"))
 
