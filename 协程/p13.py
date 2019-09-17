@@ -16,7 +16,7 @@ async def init(loop):
     app = web.Application(loop=loop)
     app.router.add_route('GET', '/', index)
     app.router.add_route('GET', '/hello/{name}', hello)
-    srv = await loop.create_server(app.make_handler(), '127.0.0.1', 8000)
+    srv = await loop.create_server(app.make_handler(), 'www.baidu.com',80)
     print('Server started at http://127.0.0.1:8000...')
     return srv
 
