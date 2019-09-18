@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<Managers address="Beijing" company="xxTech">
+		<Manager>
+			<name>joy</name>
+			<age>27</age>
+			<sex>female</sex>
+		</Manager>
+		<Manager>
+			<name>tom</name>
+			<age>30</age>
+			<sex>male</sex>
+		</Manager>
+		<Manager>
+			<name>ruby</name>
+			<age>29</age>
+			<sex>female</sex>
+		</Manager>
+	</Managers>

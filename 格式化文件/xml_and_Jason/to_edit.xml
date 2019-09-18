@@ -1,0 +1,16 @@
+<School>
+   <Teacher desc="PythonTeacher" score="good">
+      <Name>LiuDana</Name>
+      <Age detail="Age for year 2010">18</Age>
+   </Teacher>
+   <Student>
+      <Name Other="He is monitor" test="ZhangSanZhangSan">ZhangSan</Name>
+      <Age detail="The yongest boy in class">14</Age>
+   <ADDer a="b">I added it</ADDer></Student>
+   <Student>
+      <Name test="LiSiLiSi">LiSi</Name>
+      <Age>19</Age>
+      <Mobile>123456789</Mobile>
+   </Student>
+   
+</School>

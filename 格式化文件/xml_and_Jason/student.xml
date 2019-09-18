@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<School>
+   <Teacher desc="PythonTeacher" score="good">
+      <Name>LiuDana</Name>
+      <Age detail="Age for year 2010">18</Age>
+   </Teacher>
+   <Student>
+      <Name Other="He is monitor">ZhangSan</Name>
+      <Age detail="The yongest boy in class">14</Age>
+   </Student>
+   <Student>
+      <Name>LiSi</Name>
+      <Age>19</Age>
+      <Mobile>123456789</Mobile>
+   </Student>
+   <!--This is just a sample of xml-->
+</School>

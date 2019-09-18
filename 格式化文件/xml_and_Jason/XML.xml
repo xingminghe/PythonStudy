@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<School type="Online" local="Beijing">
+	<student>
+		<age>18</age>
+		<name>haha</name>
+	</student>
+	<student>
+		<age>20</age>
+		<name>dada</name>
+	</student>
+	<student>
+		<age>32</age>
+		<name>nihao</name>
+	</student>
+	<student>
+		<age>28</age>
+		<name>muhaha</name>
+	</student>
+	<student>
+		<age>38</age>
+		<name>Dingguagua</name>
+	</student>
+</School>
