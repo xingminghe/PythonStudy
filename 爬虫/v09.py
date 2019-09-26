@@ -12,7 +12,7 @@ if __name__ == '__main__':
     try:
 
         # 使用head方法伪装UA
-        # headers = {}
+       # headers = {}
         # headers['User-Agent'] = 'Mozilla/5.0 (iPad; CPU OS 5_0 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A334 Safari/7534.48.3'
         # headers['User-Agent'] = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36'
         # req = request.Request( url, headers=headers)
